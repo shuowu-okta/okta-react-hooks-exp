@@ -4,6 +4,8 @@ import App from './App';
 import AuthProvider from './AuthProvider';
 import { domain, clientId } from './config';
 
+// This is a test commit
+
 const config = {
   issuer: `https://${domain}/oauth2/default`,
   redirectUri: `${window.location.origin}/implicit/callback`,
