@@ -4,7 +4,7 @@ import App from './App';
 import AuthProvider from './AuthProvider';
 import { domain, clientId } from './config';
 
-// This is a test commit 1
+// This is a test commit - test branch
 
 const config = {
   issuer: `https://${domain}/oauth2/default`,
